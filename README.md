@@ -1,7 +1,7 @@
 ## Book Rate API
 
 O sistema consiste em uma comunidade online onde usuários logados conseguem fazer críticas e resenhas de livros que estão lendo no momento. Além disso, o usuário poderá
-atribuir uma nota ao livro de algum autor, procurar livros específicos na biblioteca para avaliar e comentar filtrando de diversas formas. O sistema contém também uma área
+atribuir uma nota ao livro de algum autor, procurar livros específicos na biblioteca para avaliar e comentar, filtrando de diversas formas. O sistema contém também uma área
 destinada ao perfil do usuário, onde ele tem controle sob os índices de suas leituras dentro da plataforma, o sistema faz todo um levantamento da interação entre o usuário
 e os livros lidos por ele.
 
