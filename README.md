@@ -1,4 +1,4 @@
-## Book Rate API
+## Book Wise API
 
 O sistema consiste em uma comunidade online onde usuários logados conseguem fazer críticas e resenhas de livros que estão lendo no momento. Além disso, o usuário poderá
 atribuir uma nota ao livro de algum autor, procurar livros específicos na biblioteca para avaliar e comentar, filtrando de diversas formas. O sistema contém também uma área
