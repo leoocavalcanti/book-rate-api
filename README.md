@@ -16,10 +16,6 @@ e os livros lidos por ele.
 * Prisma
 * React Query
 
-## Link para acesso, aplicação em produção:
-
-https://book-rate-api.vercel.app/
-
 ## Protótipo no figma
 
 https://www.figma.com/file/bDaIc0W8cPUzBPdLRMQnP5/Book?type=design&node-id=0-1&t=0RAZdFiniL69keVc-0
