@@ -8,6 +8,7 @@ e os livros lidos por ele.
 ## Tecnologias utilizadas:
 
 * ReactJs
+* Axios
 * NextJs
 * Next Auth (Autenticação via Google e Github)
 * Stitches
